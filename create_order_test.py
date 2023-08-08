@@ -1,3 +1,4 @@
+# Дмитрий Плотницкий, 7-я когорта — Финальный проект. Инженер по тестированию плюс
 import data as d
 import sender_stand_request as ssr
 
